@@ -14,10 +14,3 @@
 🔹 Seamless Execution: Fast, reliable, and automated trade execution with minimal slippage.  
 🔹 Comprehensive Coverage: Whether you're a casual trader or a professional investor, we provide tools for all levels.  
 🔹 Dedicated Support: Our team is available 24/7 to assist you with setup, troubleshooting, and optimizing your experience.  
-
-## 🔥**Contact Info & Social Links**
-| Contact Platform | Contact | Social Platform | Link |
-|-----------------|---------|-----------------|------|
-| 📧 **Email** | [cashblaze129@gmail.com](mailto:cashblaze129@gmail.com) | 🐦 **X (formerly Twitter)** | [@solbotservice](https://x.com/solbotservice) |
-| 📱 **Telegram** | [@cashblaze127](https://t.me/cashblaze127) | 🐙 **GitHub** | [solana-bot-service](https://github.com/solana-bot-service) |
-| 💬 **Discord** | [@cashblaze127](https://discord.com/users/cashblaze127) | 📱 **Telegram Channel** | [@solana_bot_service](https://t.me/solana_bot_service) |
