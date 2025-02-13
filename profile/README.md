@@ -6,54 +6,22 @@ Join us now and access a wide array of powerful bots and services tailored for s
 
 
 ## Our Services Include:
-
-- **✨ gRPC Sniper Bot** 
-Execute high-precision trades on Solana in real-time at optimal prices.
-
-- **✨ gRPC Copy Trading Bot**  
-Mirror the strategies of top traders with our automated copy trading feature.
-
-- **✨ gRPC Pumpfun Bundler**  
-Maximize your returns by bundling trades for optimal execution during market fluctuations.
-
-- **✨ gRPC Pumpfun Contract**  
-Utilize a highly-efficient contract for aggressive market conditions and fast profit generation.
-
-- **✨ Yellowston Geyser**  
-Track major price movements and get instant alerts to react quickly in volatile markets.
-
-- **✨ Token Info Telegram Bot**  
-Get real-time information and updates on your tokens directly in your Telegram chat.
-
-- **✨ Pumpfun Token Launcher**  
-Launch your token seamlessly with our automated and intuitive token launching system.
-
-- **✨ AI Telegram Bot**  
-Harness the power of AI with our Telegram bot, designed to optimize communication and provide actionable insights.
-
-- **✨ Raydium Pool Creator**  
-Create liquidity pools on Raydium effortlessly, ensuring seamless token swaps and liquidity provision.
-
-- **✨ Meteora Volume Bot**  
-Track token volume and trade patterns, providing you with key insights for making informed decisions.
-
-- **✨ Solana Volume Bot**  
-Monitor volume across the Solana blockchain, helping you capitalize on the most active markets.
-
-- **✨ Raydium Swap Bot**  
-Automate your token swaps on Raydium for faster and more efficient trading.
-
-- **✨ Pumpfun Auto Trading Bot**  
-Automate your trading strategy to maximize profits through intelligent, real-time market execution.
-
-- **✨ Meteora DLMM, DYN Volume Bot**  
-Optimize liquidity mining strategies and stay on top of your DeFi investments with our DLMM tool & Get dynamic volume insights across multiple assets to capitalize on high-trade moments.
-
-- **✨ Maker Bot**  
-Automate the creation and management of market-making strategies to ensure liquidity and profit in volatile markets.
-
-- **✨ Token Freezer Bots**  
-Secure your tokens and protect your investments with our advanced freezing mechanisms.
+- **✨ gRPC Sniper Bot** Execute high-precision trades on Solana in real-time at optimal prices.
+- **✨ gRPC Copy Trading Bot**  Mirror the strategies of top traders with our automated copy trading feature.
+- **✨ gRPC Pumpfun Bundler**  Maximize your returns by bundling trades for optimal execution during market fluctuations.
+- **✨ gRPC Pumpfun Contract** Utilize a highly-efficient contract for aggressive market conditions and fast profit generation.
+- **✨ Yellowston Geyser**  Track major price movements and get instant alerts to react quickly in volatile markets.
+- **✨ Token Info Telegram Bot**  Get real-time information and updates on your tokens directly in your Telegram chat.
+- **✨ Pumpfun Token Launcher**  Launch your token seamlessly with our automated and intuitive token launching system.
+- **✨ AI Telegram Bot**  Harness the power of AI with our Telegram bot, designed to optimize communication and provide actionable insights.
+- **✨ Raydium Pool Creator**  Create liquidity pools on Raydium effortlessly, ensuring seamless token swaps and liquidity provision.
+- **✨ Meteora Volume Bot**  Track token volume and trade patterns, providing you with key insights for making informed decisions.
+- **✨ Solana Volume Bot**  Monitor volume across the Solana blockchain, helping you capitalize on the most active markets.
+- **✨ Raydium Swap Bot**  Automate your token swaps on Raydium for faster and more efficient trading.
+- **✨ Pumpfun Auto Trading Bot**  Automate your trading strategy to maximize profits through intelligent, real-time market execution.
+- **✨ Meteora DLMM, DYN Volume Bot**  Optimize liquidity mining strategies and stay on top of your DeFi investments with our DLMM tool & Get dynamic volume insights across multiple assets to capitalize on high-trade moments.
+- **✨ Maker Bot**  Automate the creation and management of market-making strategies to ensure liquidity and profit in volatile markets.
+- **✨ Token Freezer Bots**  Secure your tokens and protect your investments with our advanced freezing mechanisms.
 
 ### Why Choose Us?
 
