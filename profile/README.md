@@ -1,5 +1,3 @@
-# Welcome to Solana Bot Services🚀
-
 | Service | Description | Service | Description |
 |---------|------------|---------|------------|
 | **✨ gRPC Sniper Bot** | Execute high-precision trades on Solana in real-time | **✨ gRPC Copy Trading Bot** | Mirror strategies of top traders automatically |
